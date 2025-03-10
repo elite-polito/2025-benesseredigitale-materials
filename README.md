@@ -4,6 +4,9 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 
 ## Slides
 
+* [Introduzione al corso](./slides/lezioni/00-intro-corso.pdf)
+* [Attention Economy](./slides/lezioni/01-attention-economy.pdf)
+  
 ## Esercitazioni
 
 ## Esame
