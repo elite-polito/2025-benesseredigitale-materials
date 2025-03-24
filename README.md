@@ -11,5 +11,6 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Benessere Digitale e Lavoro](./slides/lezioni/04-benessere-digitale-lavoro.pdf)
   
 ## Esercitazioni
+* [Assignment 1 - Journey Map](./assignments/A1-journeymap.pdf)
 
 ## Esame
