@@ -13,5 +13,6 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
   
 ## Esercitazioni
 * [Assignment 1 - Journey Map](./assignments/A1-journeymap.pdf)
+* [Assignment 2 - Needfinding](./assignments/A2-needfinding.pdf)
 
 ## Esame
