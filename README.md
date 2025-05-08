@@ -13,6 +13,7 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Differenze Individuali](./slides/lezioni/06-differenze-individuali.pdf)
 * [Needfinding - Analisi](./slides/lezioni/07-needfinding-analisi-qualitativa.pdf)
 * [Strategie - prospettiva psicologica](./slides/lezioni/08-strategie-psicologiche.pdf)
+* [Strategie - prospettiva informatica](./slides/lezioni/09-strategie-informatiche.pdf)
   
 ## Esercitazioni
 * [Assignment 1 - Journey Map](./assignments/A1-journeymap.pdf)
