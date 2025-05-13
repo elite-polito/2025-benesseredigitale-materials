@@ -14,9 +14,12 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Needfinding - Analisi](./slides/lezioni/07-needfinding-analisi-qualitativa.pdf)
 * [Strategie - prospettiva psicologica](./slides/lezioni/08-strategie-psicologiche.pdf)
 * [Strategie - prospettiva informatica](./slides/lezioni/09-strategie-informatiche.pdf)
+* [Prototipazione](./slides/lezioni/10-prototipazione.pdf)
+* [Valutazione](./slides/lezioni/11-valutazione.pdf)
   
 ## Esercitazioni
 * [Assignment 1 - Journey Map](./assignments/A1-journeymap.pdf)
 * [Assignment 2 - Needfinding](./assignments/A2-needfinding.pdf)
+* [Assignment 3 - Valutazione Euristica](./assignments/A3-heuristic-eval.pdf)
 
 ## Esame
