@@ -23,3 +23,4 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Assignment 3 - Valutazione Euristica](./assignments/A3-heuristic-eval.pdf)
 
 ## Esame
+* [Assignment 4 - Prototipo ad Alta Fedeltà](./assignments/A4-exam.pdf)
